@@ -18,33 +18,33 @@ The following **required** functionality is completed:
 My 3 Favorite Apps and their best features:
 
 1. TikTok
-  > TikTok Shop feature that makes it easy to purchase users' fav products
-  > Contains really cool creator tools
-  > Contains cool filters
+* TikTok Shop feature that makes it easy to purchase users' fav products
+* Contains really cool creator tools
+* Contains cool filters
 
 2. Chipotle App
-  > Provides a lot of customizability for users to specify if you want ingredients on the side, extra, etc.
-  > Very easy to use, minimal design
+* Provides a lot of customizability for users to specify if you want ingredients on the side, extra, etc.
+* Very easy to use, minimal design
 
 3. GamePigeon
-   > Really innovative, allows users to play games on imessage
-   > games are designed very well
-   > makes it easy for users to add the game directly on imessage, keeps track of users' wins. 
+* Really innovative, allows users to play games on imessage
+* Games are very well designed 
+* makes it easy for users to add the game directly on imessage, keeps track of users' wins. 
 
 App idea: AI Dream Journal
-Dream Entry:
+1. Dream Entry:
 * Users can log their dreams by entering text or voice notes.
 * Include options to add tags, emotions, and themes to categorize the dream.
-Analytical Features:
+2. Analytical Features:
 * Utilize the GPT-3 API to analyze and interpret the dream content.
 * Provide users with a summary or potential meanings based on common dream symbols, emotions, or psychological theories.
-Dream Trends:
+3. Dream Trends:
 * Generate insights into recurring themes, symbols, or emotions in the user's dreams.
 * Display statistical data on dream patterns and trends over time using dream categories.
-Reminder and Journaling Prompts:
+4. Reminder and Journaling Prompts:
 * Implement a feature to set reminders for users to log their dreams regularly.
 * Include journaling prompts or questions to encourage users to reflect on their dreams in more detail.
-Customization:
+5. Customization:
 * Allow users to customize the app's appearance, themes, and notification preferences. (Dark mode)
 
 
